@@ -1,0 +1,103 @@
+/* CSS for Suleyman Farajli's Website */
+/* 10th June 2024, Thei0n */
+
+body {
+	font: 15px monospace;
+	max-width: 60em;
+	display:block;
+	padding-top: 4em;
+	margin: auto;
+	background-color: #1c1c1c;	/* Almost Black */
+	color: #ffffff;			/* White */
+}
+
+p, a { 
+	font-size: 1.3em;
+}
+
+h1, h2, h3 {
+	margin-right: 0.2em;
+	margin-left: 0.2em;
+}
+
+p {
+	margin-right: 1em;
+	margin-left: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: #BB6767;			/* Red */
+	margin-right: 0.2em;
+	margin-left: 0.2em;
+}
+
+a:hover {
+	color: #B48EAD;			/* Purple */
+	font-weight: bold;
+
+}
+
+table  {
+	padding-left: 1em;
+}
+
+.menu_item {
+	font-weight: bold;
+	padding-right: 3em;
+	font-size: 1.3em;
+}
+
+.right {
+	float: right;	
+	padding-right: 1em;
+}
+
+.menu {
+	/*Left blank intentionally*/
+}
+
+.value {
+	color: #5E81AC;			/* Blue */
+	padding-left:3em;
+}
+
+.post{
+	padding-left:1em;
+}
+
+.key {
+	color : #bbbbbb; 		/* Light Gray */
+}
+
+.color1 {
+	color: #EBCB8B;			 /* Orange */
+}
+.color2 {
+	color: #A3BE8C;			 /* Green */
+}
+.color3 {
+	color: #B48EAD;			 /* Purple */
+}
+.color4 {
+	color: #BB6767; 		/* Red */
+}
+.color0 {
+	color: #FFFFFF; 		/* White */
+}
+
+#copyleft {
+	color: #696969 			/* Dark Gray */
+}
+
+/*
+ * "pointer-events: none" doesn't work on some browsers, 
+ * to deactivate hover effect on this tag, 
+ * hover and regular styles are defined
+ */
+
+#header-link, #header-link:hover {
+	font-size: 2.0em;
+	color: white;
+	font-weight: normal;
+}
