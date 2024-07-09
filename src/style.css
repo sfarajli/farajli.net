@@ -93,7 +93,7 @@ table  {
 /*
  * "pointer-events: none" doesn't work on some browsers, 
  * to deactivate hover effect on this tag, 
- * hover and regular styles are defined
+ * hover and regular styles are defined as the same
  */
 
 #header-link, #header-link:hover {
