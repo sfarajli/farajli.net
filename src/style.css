@@ -11,13 +11,14 @@ body {
 	color: #ffffff;			/* White */
 }
 
-p, a { 
+p, a {
 	font-size: 1.3em;
 }
 
 h1, h2, h3 {
 	margin-right: 0.2em;
 	margin-left: 0.2em;
+	padding: 0.3em;
 }
 
 p {
@@ -25,11 +26,16 @@ p {
 	margin-left: 1em;
 }
 
+small {
+	padding: 0.6em;
+}
+
 a {
 	text-decoration: none;
 	color: #BB6767;			/* Red */
 	margin-right: 0.2em;
 	margin-left: 0.2em;
+	padding: 0.4em;
 }
 
 a:hover {
@@ -49,7 +55,7 @@ table  {
 }
 
 .right {
-	float: right;	
+	float: right;
 	padding-right: 1em;
 }
 
@@ -91,8 +97,8 @@ table  {
 }
 
 /*
- * "pointer-events: none" doesn't work on some browsers, 
- * to deactivate hover effect on this tag, 
+ * "pointer-events: none" doesn't work on some browsers,
+ * to deactivate hover effect on this tag,
  * hover and regular styles are defined as the same
  */
 
