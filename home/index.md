@@ -5,8 +5,8 @@ Welcome to my site
 ### recent posts
 
 <table>
-    <tr><td><time class="key">2024-06-09</time></td><td><a  class="post value"  href="/posts/website_created.html">Website Created!</a></td></tr>
     <tr><td><time class="key">2024-09-06</time></td><td><a  class="post value"  href="/posts/gentoo.html">Why I use gentoo.</a></td></tr>
+    <tr><td><time class="key">2024-06-09</time></td><td><a  class="post value"  href="/posts/website_created.html">Website Created!</a></td></tr>
 </table>
 
 
