@@ -13,7 +13,7 @@ Welcome to my site
 
 <table>
 		<tr><td class="key">email</td><td><a class="value" href="mailto:suleyman@farajli.net">suleyman@farajli.net</a></td></tr>
-		<tr><td class="key">ssh  </td><td><a class="value" href="keys/ssh.html">Public key</a></td></tr>
+		<tr><td class="key">ssh  </td><td><a class="value" href="/keys/ssh.html">Public key</a></td></tr>
 		<tr><td class="key">github</td><td><a class="value" href="https://github.com/sfarajli">sfarajli</a></td></tr>
 </table>
 <small class="footnote">* and it is worth mentioning that I don't have a LinkedIn (or any social media) account.</small>
