@@ -1,8 +1,1 @@
-videos
-temp*
-examples
-tood.md
-suckless.css
-commands.sh
-boilerplate.html
-Makefile
+*.html
