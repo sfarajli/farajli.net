@@ -1,4 +1,4 @@
-SRC = $(shell find . -name '*.md')
+SRC := $(shell find . -name '*.md')
 HTML = $(SRC:.md=.html)
 
 all: $(HTML)
