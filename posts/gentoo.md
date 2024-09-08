@@ -1,7 +1,7 @@
 <!-- Title: Why I prefer Gentoo -->
 
 Why I prefer Gentoo over Arch.
-==============================
+------------------------------
 A lot of people say very good things about gentoo linux, it is very well maintained,
 It is more secure, It is lightweight and so on. But when it comes down to it,
 very few people actuall use gentoo, I thing that is because they install it 
@@ -16,15 +16,13 @@ I would have unhesitantly said arch's pacman, while I still thing that pacman is
 for the past few months I have started to really like gentoo and its package manager,
 portage and there are different reasons for that.   
 
-Compiling programs makes more sense than downloading.
------------------------------------------------------
+### Compiling programs makes more sense than downloading.
 On unix like operating systems you generally use 
 open-source software and that software is made to be compiled by the users specific 
 to their machines, but on binary based distros you use programs that are compiled for
 you by someone else and again to me, personally compiling just makes more sense.
 
-It gives you more pespective of the program you use.
-----------------------------------------------------
+### It gives you more pespective of the program you use.
 If you'd downloaded a binary package you would only be able to tell if a program is fast, 
 has enough features and so on, but you wouldn't have known how much time it takes 
 to compile, what the build dependencies are, and even sometimes the
@@ -37,15 +35,13 @@ as well but gentoo makes it easier and forces you to do that
 and be honest, If you could install binary package in 10 seconds
 you wouldn't even bother compile it from the source.
 
-You install less packages.
-----------------------
+### You install less packages.
 In order to avoid compilation you tent to install less pieces of software
 resulting in more stable and more performant system. God forbit you if
 you are using arch linux and have access to the AUR 
 (I had installed more than 2000 useless packages on my arch system). 
 
-It is more secure and faster and more lightweight (at least in theory).
------------------------------------------------------------------------
+### It is more secure and faster and more lightweight (at least in theory).
 I have not noticed any significant difference in terms of performance 
 between gentoo and binary based distros and I kind of think that security 
 on client OSes is overrated, but for some few people these might be important 
@@ -53,21 +49,19 @@ since you literally can skip some useless parts of a program (useless for you of
 resulting in less bloated, therefore faster and more secure programs, but again I 
 don't really find it that important.
 
-<strong class="color4">No systemd</strong>!
--------------------------------------------
+### <strong class="color4">No systemd</strong>!
 I am not against systemd but I prefer to not use it.
 On gentoo the default init system is openrc and it works 
 with not problem.
 
 
-Bad parts.
-----------
+### Bad parts.
 Like everything it has some negative stuff about it as well,
 those are
 * Compilation can take some time.
-* Gentoo is the one of <strong class="color1">the hardest</strong>distro to manage.  
+* Gentoo is the one of <strong class="color1">the hardest</strong> distro to manage.  
 I am saying both of those with an asterisk, because 
-since I agree that there are some programs that you basically have to have 
+although I agree that there are some big pieces software that you basically have to have 
 like a browser, (it took 6h to compile a browser on my machine) most of the time
 if a piece of software takes
 much time to compile that indicates that piece of software is 
