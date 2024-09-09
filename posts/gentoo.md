@@ -4,7 +4,7 @@ Why I prefer Gentoo over Arch.
 ------------------------------
 A lot of people say very good things about gentoo linux, it is very well maintained,
 It is more secure, It is lightweight and so on. But when it comes down to it,
-very few people actuall use gentoo, I thing that is because they install it 
+very few people actually use gentoo, I thing that is because they install it 
 and after a month or so they really get sick of waiting for the packages to compile 
 and they switch back to whatever they were using before. I know it becuase,
 I had done that in the past, I dual-booted my machine with gentoo and arch linux
@@ -16,7 +16,7 @@ I would have unhesitantly said arch's pacman, while I still thing that pacman is
 for the past few months I have started to really like gentoo and its package manager,
 portage and there are different reasons for that.   
 
-### Compiling programs makes more sense than downloading.
+### Compiling programs makes more sense than downloading binaries.
 On unix like operating systems you generally use 
 open-source software and that software is made to be compiled by the users specific 
 to their machines, but on binary based distros you use programs that are compiled for
@@ -29,11 +29,11 @@ to compile, what the build dependencies are, and even sometimes the
 programming language that it is written in. I do agree that knowing those abstract details 
 of a package is utterly useless for a typical end-user who is not a programmer
 but for a programmer those details are very important, since you get to know what build systems are
-faster what programming language compiles faster, builds better and sometimes you learn 
-about things that didn't even know existed. You can build programs from source in other distros
+faster what programming language compiles faster, builds better and sometimes you 
+get to learn some stuff that you didn't even know existed. You can build programs from source in other distros
 as well but gentoo makes it easier and forces you to do that
 and be honest, If you could install binary package in 10 seconds
-you wouldn't even bother compile it from the source.
+you wouldn't even bother waiting for it to compile for 20 minutes.
 
 ### You install less packages.
 In order to avoid compilation you tent to install less pieces of software
@@ -58,15 +58,15 @@ with no problem.
 ### Bad parts.
 Like everything, it has some negative stuff about it as well,
 those are
+
 * Compilation can take some time.
 * Gentoo is the one of <strong class="color1">the hardest</strong> distro to manage.  
 I am saying both of those with an asterisk, because 
-although I agree that there are some big pieces software that you basically have to have 
-like a browser, (it took 6h to compile a browser on my machine) most of the time
-if a piece of software takes
-much time to compile that indicates that piece of software is 
-overcompilcated and shouldn't even be using that.  
-Gentoo is hard to use but, that also means gentoo foces to know more that 
-becomes a good thing.
+although I agree that there are some big pieces of software that you basically have to have 
+like a browser, (it took 6h to compile a browser on my machine) but most of the time
+if software takes so much time to compile that indicates that it is 
+overcompilcated and you shouldn't even be using it.  
+Gentoo is hard to use but, that also means gentoo forces to know more, making you better at 
+system adminstration.
 
 So, that is all.
