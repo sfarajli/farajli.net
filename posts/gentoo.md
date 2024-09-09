@@ -52,7 +52,7 @@ don't really find it that important.
 ### <strong class="color4">No systemd</strong>!
 I am not against systemd but I prefer to not use it.
 On gentoo the default init system is openrc and it works 
-with not problem.
+with no problem.
 
 
 ### Bad parts.
