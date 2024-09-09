@@ -56,7 +56,7 @@ with no problem.
 
 
 ### Bad parts.
-Like everything it has some negative stuff about it as well,
+Like everything, it has some negative stuff about it as well,
 those are
 * Compilation can take some time.
 * Gentoo is the one of <strong class="color1">the hardest</strong> distro to manage.  
