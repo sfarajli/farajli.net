@@ -64,7 +64,7 @@ those are
 I am saying both of those with an asterisk, because 
 although I agree that there are some big pieces of software that you basically have to have 
 like a browser, (it took 6h to compile a browser on my machine) but most of the time
-if software takes so much time to compile that indicates that it is 
+if software takes too much time to compile that indicates that it is 
 overcompilcated and you shouldn't even be using it.  
 Gentoo is hard to use but, that also means gentoo forces to know more, making you better at 
 system adminstration.
