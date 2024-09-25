@@ -101,7 +101,7 @@ that people don't find it absurd.
 
 Hardware
 --------
-Hardware of cellphones absolutely suck they are designed to be borken so easily you can
+Hardware of cellphones absolutely suck they are designed to be broken so easily you can
 break them by accident, that is, of course, 
 to sell more of them, they are nothing like old classic solid nokia phones 
 with buttons and stuff, instead you have only screen and you touch on it 
