@@ -133,7 +133,7 @@ but it is not a good idea to use a smartphone just because of that.
 
 Summing it up
 -------------
-Smartphones are useless pieces of garbage that are overpriced, not private and 
+Smartphones are useless pieces of garbage that are overpriced, not privacy respecting and 
 meant for <strong class="color4">normies</strong> who don't understand how technology
 works or at least how it should work, <strong class="color3">no offense</strong>.
 Even if you must use a smartphone that doesn't change the fact that they are 
