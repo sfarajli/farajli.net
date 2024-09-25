@@ -1,10 +1,12 @@
 <!-- Title: My personal Website -->
 
-Welcome to my site
+<p class="color5">I am an ordinary person,   <br>
+interested in Computer Science and Some philosophy. </p>
 
 ### recent posts
 
 <table>
+    <tr><td><time class="key">2024-09-26</time></td><td><a  class="post value"  href="/posts/qizlar.html">Qızlar haqqında.</a></td></tr>
     <tr><td><time class="key">2024-09-25</time></td><td><a  class="post value"  href="/posts/nophone.html">Why I absolutely hate smartphones.</a></td></tr>
     <tr><td><time class="key">2024-09-06</time></td><td><a  class="post value"  href="/posts/gentoo.html">Why I use gentoo.</a></td></tr>
     <tr><td><time class="key">2024-06-09</time></td><td><a  class="post value"  href="/posts/website_created.html">Website Created!</a></td></tr>
