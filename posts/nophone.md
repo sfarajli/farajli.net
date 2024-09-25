@@ -106,7 +106,7 @@ break them by accident, that is, of course,
 to sell more of them, they are nothing like old classic solid nokia phones 
 with buttons and stuff, instead you have only screen and you touch on it 
 which is very very <strong class="color1">cringe</strong>.  
-I just want buttons to press not touchscreen to touch.  
+I just want buttons to press not touchscreens to touch.  
 Another thing is that you can't upgrade your ram your storage and supposed to use overpriced
 services like icloud or google drive.
 
