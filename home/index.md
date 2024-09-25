@@ -1,7 +1,6 @@
 <!-- Title: My personal Website -->
 
-<p class="color5">I am an ordinary person,   <br>
-interested in Computer Science and Some philosophy. </p>
+Someone interested in computer science, philosophy and languages.
 
 ### recent posts
 
