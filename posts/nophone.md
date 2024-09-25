@@ -39,7 +39,7 @@ to almost all the other phone OSes as well.
 computer functionalities 
 like compiling very simple software, writing scripts and so on, you don't even have
 the root access to the phone you "own", but the company that sold you that, have full 
-access to the phone over the internet, that is basically like slavery with extra steps lol.
+access to the phone over the internet, that is basically like slavery with extra steps, lol.
 Some people might say "Well, that is not a computer
 you are not supposed to compile programs and write scripts!", I don't buy that argument
 because, in reality computers and phones are indeed the same thing, the way that they
