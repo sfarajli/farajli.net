@@ -56,9 +56,9 @@ it should be obvious why, apple! the single worst company
 that has ever existed, apple is trying so hard to keep you 
 inside of its garbage-like "ecosystem" by making it very hard 
 and even sometimes impossible to connect with hardware/software
-other than apple's, and all these morons will be like 
-> "BuT, DuDe APpLE DeVIces WoRk WItH oTher AppLE DeViCes sO SMoOthLy" 
-yeah, by making it impossible to work with basically everything else
+other than apple's, and all these <strong class="color4">morons</strong> will be like 
+> "BuT, DuuuuuDe, APpLE DeVIces WeRk WItH oTher AppLE DeViCes sO SMoOthLy" 
+Yeah, by making it impossible to work with basically everything else
 and you have to have apple garbage all around you.
 
 Package Management
@@ -130,3 +130,11 @@ The only good thing on a phone is its camera,
 though many people take too much useless pictures
 resulting in a mess of data. Nonetheless, cameras are very useful
 but it is not a good idea to use a smartphone just because of that.
+
+Summing it up
+-------------
+Smartphones are useless pieces of garbage that are overpriced, not private and 
+meant for <strong class="color4">normies</strong> who don't understand how technology
+works or at least how it <strong class="color3">should</strong> work, no offense.
+Even if you must use a smartphone that doesn't change the fact that they are 
+bad for you.
