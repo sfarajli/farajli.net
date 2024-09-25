@@ -135,6 +135,6 @@ Summing it up
 -------------
 Smartphones are useless pieces of garbage that are overpriced, not private and 
 meant for <strong class="color4">normies</strong> who don't understand how technology
-works or at least how it <strong class="color3">should</strong> work, no offense.
+works or at least how it should work, <strong class="color3">no offense</strong>.
 Even if you must use a smartphone that doesn't change the fact that they are 
 bad for you.
