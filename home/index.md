@@ -1,6 +1,7 @@
 <!-- Title: My personal Website -->
 
-Someone interested in computer science, philosophy and languages.
+Lumos Maxima!
+
 
 ### recent posts
 
