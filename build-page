@@ -1,5 +1,8 @@
 #!/bin/sh
 
+filename="${1}"
+title=$(cat "${filename}" | head -n1 | sed 's/<!-- Title: //; s/-->//')
+
 cat << EOF
 <!DOCTYPE html>
 <html lang="en">
@@ -7,6 +10,8 @@ cat << EOF
 <meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel='stylesheet' type='text/css' href="/style.css">
+	<title>${title}</title>
+
 </head>
 	
 <body>
@@ -19,10 +24,9 @@ cat << EOF
 	<a class="menu_item" href="/wiki/wiki.html">Wiki/</a>
 <a class="menu_item  right" href="https://git.farajli.net">Git</a>
 </div>
-$(sed '1 s/<!--.*-->//' ${1} | smu)
+	$(sed '1 s/<!--.*-->//' "${filename}" | smu)
 <p id="copyleft"><br>copyleft (c) 2024 Suleyman Farajli</p>
 
 </body>
 </html>
-
 EOF
