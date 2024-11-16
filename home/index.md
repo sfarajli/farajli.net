@@ -1,6 +1,7 @@
 <!-- Title: My personal Website -->
 
-OH! Mamma Mia!
+
+Memento mori!
 
 
 ### recent posts
