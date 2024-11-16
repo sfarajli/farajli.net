@@ -13,7 +13,7 @@ for the package to compile, but ended up only booting to arch and almost never
 to gentoo, at that time if you were to ask me the best package manager 
 I would have unhesitantly said arch's pacman, while I still thing that pacman is the best 
 <strong class="color1">binary</strong> package manager
-for the past few months I have started to really like gentoo and its package manager,
+for the past few months I have started to really like gentoo and its package manager
 portage and there are different reasons for that.   
 
 ### Compiling programs makes more sense than downloading binaries.
