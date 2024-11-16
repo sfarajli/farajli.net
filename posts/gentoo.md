@@ -22,7 +22,7 @@ open-source software and that software is made to be compiled by the users speci
 to their machines, but on binary based distros you use programs that are compiled for
 you by someone else and again to me, personally compiling just makes more sense.
 
-### It gives you more pespective of the program you use.
+### It gives you more pespective to the program you use.
 If you'd downloaded a binary package you would only be able to tell if a program is fast, 
 has enough features and so on, but you wouldn't have known how much time it takes 
 to compile, what the build dependencies are, and even sometimes the
