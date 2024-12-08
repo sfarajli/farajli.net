@@ -78,7 +78,7 @@ User Space applications
 -----------------------
 By user space applications, I mean just the programs that people
 install on smartphones. Frankly speaking, those programs are
-just for <strong class="color1">normies</strong> who doesn't understand 
+just for <strong class="color1">normies</strong> who don't understand 
 technology and advances users are completely ignored. Phone programs
 are grapical, thus they use more ram and cpu and most of the time they are
 full of advertisements (Xiaomi Phones even have ads in the system's gallery).
