@@ -127,7 +127,7 @@ Good stuff about phones
 The only good thing about a phone is its camera. 
 though many people take too many useless pictures
 resulting in a mess of data. Nonetheless, cameras are very useful
-but it is not a good idea to use a smartphone just because of that.
+but it is not worth it to use a smartphone just because of that.
 
 Summing it up
 -------------
