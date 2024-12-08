@@ -2,7 +2,7 @@
 
 body {
 	font: 15px monospace;
-	max-width: 60em;
+	width: 60em;
 	display:block;
 	padding-top: 4em;
 	margin: auto;
