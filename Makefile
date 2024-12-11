@@ -9,4 +9,4 @@ all: $(HTML)
 clean: 
 	rm -f $(HTML)
 
-.PHONY: clean
+.PHONY: all clean
