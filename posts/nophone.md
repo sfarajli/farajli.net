@@ -42,7 +42,7 @@ Some people might say "Well, that is not a computer
 you are not supposed to compile programs and write scripts!" I don't buy that argument
 because, in reality, computers and phones are indeed the same thing, the way that they
 function is the same, the way they connect with other computers is the same,
-they use same technologies to function (in fact, Android uses the Linux kernel).
+they use the same technologies to function (in fact, Android uses the Linux kernel).
 The difference between properly written computer OSes and android is that 
 computer OSes care about the users while phones are trying to keep you under control.
 It is also worth mentioning that I am not talking about the pure open source Android
@@ -78,7 +78,7 @@ User Space applications
 -----------------------
 By user space applications, I mean just the programs that people
 install on smartphones. Frankly speaking, those programs are
-just for <strong class="color1">normies</strong> who don't understand 
+just for normies who don't understand 
 technology and advances users are completely ignored. Phone programs
 are grapical, thus they use more ram and cpu and most of the time they are
 full of advertisements (Xiaomi Phones even have ads in the system's gallery).
@@ -103,7 +103,7 @@ Hardware of cellphones absolutely suck they are designed to be broken so easily 
 break them by accident, that is, of course, 
 to sell more of them, they are nothing like old classic solid Nokia phones 
 with buttons and stuff, instead you have only a screen and you touch on it 
-which is very very <strong class="color1">cringe</strong>.  
+which is very very cringe.  
 I just want buttons to press, not touchscreens to touch.  
 Another thing is that you can't upgrade your RAM or your storage and you're supposed to use overpriced
 services like iCloud or Google Drive.
@@ -132,7 +132,7 @@ but it is not worth it to use a smartphone just because of that.
 Summing it up
 -------------
 Smartphones are useless pieces of garbage that are overpriced, not privacy respecting and 
-meant for <strong class="color4">normies</strong> who don't understand how technology
+meant for normies who don't understand how technology
 works, or at least how it should work, <strong class="color3">no offense</strong>.
 Even if you must use a smartphone, that doesn't change the fact that they are 
 bad for you.
