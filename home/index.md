@@ -1,9 +1,5 @@
 <!-- Title: My personal Website -->
 
-
-Memento mori!
-
-
 ### recent posts
 
 <table>
@@ -21,4 +17,3 @@ Memento mori!
 		<tr><td class="key">ssh  </td><td><a class="value" href="/keys/ssh.html">Public key</a></td></tr>
 		<tr><td class="key">github</td><td><a class="value" href="https://github.com/sfarajli">sfarajli</a></td></tr>
 </table>
-<small class="footnote">* and it is worth mentioning that I don't have a LinkedIn (or any social media) account.</small>
