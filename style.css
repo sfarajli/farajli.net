@@ -2,7 +2,7 @@
 
 body {
 	font: 15px monospace;
-	width: 60em;
+	width: 60em; /* make width window size independent */
 	display:block;
 	padding-top: 4em;
 	margin: auto;
@@ -105,7 +105,18 @@ table  {
  */
 
 #header-link, #header-link:hover {
+	text-align: left;
 	font-size: 2.0em;
 	color: white;
 	font-weight: normal;
+}
+#quote {
+	font-size: 1.3em;
+	text-align: right;
+	color: #C0C0C0;
+	font-weight: 530;
+}
+#bar{
+    width: 100%;
+    line-height: 35px;
 }
