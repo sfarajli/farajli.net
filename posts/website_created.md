@@ -7,7 +7,7 @@ As of June 13th 2024, the best website on the internet has officially been creat
 
 This site is not made by using one of those fancy and bloated site generators
 or any garbage like that, it was created, quite surprisingly, by writing HTML and
-CSS, like it is supposed to be, though it is a little inefficient, error-prone
+CSS, as it is supposed to be, though it is a little inefficient, error-prone
 and a pain writing HTML and adding boilerplate code to each file,
 thus it's quite probable that I shall write a small program to do that automatically
 for me in the future, but that program wouldn't be the same as bloated site generators,
