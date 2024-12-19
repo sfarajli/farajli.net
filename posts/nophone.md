@@ -47,7 +47,7 @@ The difference between properly written computer OSes and android is that 
 computer OSes care about the users while phones are trying to keep you under control.
 It is also worth mentioning that I am not talking about the pure open source Android
 project, I am talking about Android, on which companies put a load of garbage to make 
-it more "benefitial" for the company.  
+it more "beneficial" for the company.  
 
 With iPhones, it's the same thing except it is even worse, 
 it should be obvious why, apple! the single worst company 
@@ -67,10 +67,10 @@ on iOS, you have app store.  
 Google owns Play Store, and you have to have a google account to be able to use 
 Play Store (which on Android you basically also have to), on iOS, Apple owns
 app store.   
-That might not seem like a huge deal, but it is. It basically means Google and Apple.
+That might not seem like a huge deal, but it is. It basically means Google and Apple
 have all the control of the programs uploaded to Play Store and app store respectively,
 meaning that Google and Apple can block and even change the source code of some programs,
-enject absolutely anything inside them.  
+inject absolutely anything inside them.  
 Those companies need profit no matter what, meaning they would do anything to 
 get profit, even unethical stuff, and you are the one who let them do that to you.
 
@@ -80,7 +80,7 @@ By user space applications, I mean just the programs that people
 install on smartphones. Frankly speaking, those programs are
 just for normies who don't understand 
 technology and advances users are completely ignored. Phone programs
-are grapical, thus they use more ram and cpu and most of the time they are
+are graphical, thus they use more ram and cpu and most of the time they are
 full of advertisements (Xiaomi Phones even have ads in the system's gallery).
 They are not privacy-respecting, bloated, and kind of useless. 
 There is one program, however, that is worth talking about separately, and that is 
