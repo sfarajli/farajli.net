@@ -6,23 +6,23 @@ A lot of people say very good things about gentoo linux, it is very well maintai
 It is more secure, It is lightweight and so on. But when it comes down to it,
 very few people actually use gentoo, I thing that is because they install it 
 and after a month or so they really get sick of waiting for the packages to compile 
-and they switch back to whatever they were using before. I know it becuase,
+and they switch back to whatever they were using before. I know it because,
 I had done that in the past, I dual-booted my machine with gentoo and arch linux
 intending to only use gentoo, and arch only when I didn't have the time to wait
 for the package to compile, but ended up only booting to arch and almost never 
 to gentoo, at that time if you were to ask me the best package manager 
-I would have unhesitantly said arch's pacman, while I still thing that pacman is the best 
+I would have unhesitatingly said arch's pacman, while I still thing that pacman is the best 
 <strong class="color1">binary</strong> package manager
 for the past few months I have started to really like gentoo and its package manager
 portage and there are different reasons for that.   
 
 ### Compiling programs makes more sense than downloading binaries.
-On unix like operating systems you generally use 
+On unix-like operating systems you generally use 
 open-source software and that software is made to be compiled by the users specific 
 to their machines, but on binary based distros you use programs that are compiled for
 you by someone else and again to me, personally compiling just makes more sense.
 
-### It gives you more pespective to the program you use.
+### It gives you more perspective to the program you use.
 If you'd downloaded a binary package you would only be able to tell if a program is fast, 
 has enough features and so on, but you wouldn't have known how much time it takes 
 to compile, what the build dependencies are, and even sometimes the
@@ -37,7 +37,7 @@ you wouldn't even bother waiting for it to compile for 20 minutes.
 
 ### You install less packages.
 In order to avoid compilation you tent to install less pieces of software
-resulting in more stable and more performant system. God forbit you if
+resulting in more stable and more performant system. God forbid you if
 you are using arch linux and have access to the AUR 
 (I had installed more than 2000 useless packages on my arch system). 
 
@@ -65,8 +65,8 @@ I am saying both of those with an asterisk, because
 although I agree that there are some big pieces of software that you basically have to have 
 like a browser, (it took 6h to compile a browser on my machine) but most of the time
 if software takes too much time to compile that indicates that it is 
-overcompilcated and you shouldn't even be using it.  
+overcomplicated and you shouldn't even be using it.  
 Gentoo is hard to use but, that also means gentoo forces to know more, making you better at 
-system adminstration.
+system administration.
 
 So, that is all.
