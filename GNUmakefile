@@ -1,9 +1,9 @@
 SRC := $(shell find . -name '*.md')
 HTML = $(SRC:.md=.html)
 
-all: $(HTML) build-page
+all: $(HTML)
 
-%.html: %.md
+%.html: %.md build-page
 	sh build-page $< > $@
 
 clean:
