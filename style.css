@@ -2,16 +2,12 @@
 
 body {
 	font: 15px monospace;
-	width: 60em; /* make width window size independent */
+	width: 60em; 			/* make width window size independent */
 	display:block;
 	padding-top: 4em;
 	margin: auto;
-	background-color: #1c1c1c;	/* Almost Black */
-	color: #ffffff;			/* White */
-}
-
-p, a {
-	font-size: 1.3em;
+	background-color: #1c1c1c; /* Almost Black */
+	color: #ffffff;	/* White */
 }
 
 h1, h2, h3 {
@@ -20,40 +16,41 @@ h1, h2, h3 {
 	padding: 0.3em;
 }
 
-p {
+p, a, li {
+	font-size: 1.3em;
 	margin-right: 1em;
 	margin-left: 1em;
+}
+
+a {
+	text-decoration: none;
+	color: #5E81AC;	/* Blue */
+}
+
+a:hover {
+	color: #B48EAD;	/* Purple */
+	font-weight: bold;
 }
 
 small {
 	padding: 0.6em;
 }
 
-a {
-	text-decoration: none;
-	color: #BB6767;			/* Red */
-	margin-right: 0.2em;
-	margin-left: 0.2em;
-	padding: 0.4em;
-}
-
-a:hover {
-	color: #B48EAD;			/* Purple */
-	font-weight: bold;
-
-}
-
-table  {
+table {
 	padding-left: 1em;
 }
 
 .menu_item {
+	color: #BB6767;	/* Red */
 	font-weight: bold;
+	padding: 0.4em;
 	padding-right: 3em;
 	font-size: 1.3em;
+	margin-right: 0.2em;
+	margin-left: 0.2em;
 }
 
-.right {
+.right_menu_item {
 	float: right;
 	padding-right: 1em;
 }
@@ -62,40 +59,37 @@ table  {
 	/*Left blank intentionally*/
 }
 
-.value {
-	color: #5E81AC;			/* Blue */
-	padding-left:3em;
+.date {
+	color : #bbbbbb; /* Light Gray */
+	padding-right:0.25em;
 }
 
-.post{
-	padding-left:1em;
+.contact {
+	color : #bbbbbb; /* Light Gray */
+	padding-right:2.9em;
 }
 
-.key {
-	color : #bbbbbb; 		/* Light Gray */
+.orange_text {
+	color: #EBCB8B;	/* Orange */
 }
-
-.color1 {
-	color: #EBCB8B;			 /* Orange */
+.green_text {
+	color: #A3BE8C;	/* Green */
 }
-.color2 {
-	color: #A3BE8C;			 /* Green */
+.purple_text {
+	color: #B48EAD;	/* Purple */
 }
-.color3 {
-	color: #B48EAD;			 /* Purple */
+.red_text {
+	color: #BB6767; /* Red */
 }
-.color4 {
-	color: #BB6767; 		/* Red */
+.light_gray_text {
+	color: #bbbbbb; /* Light Gray */
 }
-.color5 {
-	color : #bbbbbb; 		/* Light Gray */
-}
-.color0 {
-	color: #FFFFFF; 		/* White */
+.white_text {
+	color: #FFFFFF; /* White */
 }
 
 #copyleft {
-	color: #696969 			/* Dark Gray */
+	color: #696969; /* Dark Gray */
 }
 
 /*
@@ -107,13 +101,13 @@ table  {
 #header-link, #header-link:hover {
 	text-align: left;
 	font-size: 2.0em;
-	color: white;
+	color: #FFFFFF; /* White */
 	font-weight: normal;
 }
 #quote {
 	font-size: 1.3em;
 	text-align: right;
-	color: #C0C0C0;
+	color: #C0C0C0; /* Darkish gray */
 	font-weight: 430;
 }
 #bar{
