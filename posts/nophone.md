@@ -33,7 +33,7 @@ like legacy Windows Phone and even some open-source ones, though here, I shall o
 first 2 that I have mentioned, but that should also be somewhat relevant 
 to almost all the other phone OSes as well.
 
-<strong class="color1">Android Sucks</strong>! because, you can't even perform the most basic
+<strong class="orange_text">Android Sucks</strong>! because, you can't even perform the most basic
 computer functionalities 
 like compiling very simple software, writing scripts, and so on, you don't even have
 the root access to the phone you "own", but the company that sold you that has full 
@@ -54,7 +54,7 @@ it should be obvious why, apple! the single worst company 
 that has ever existed, Apple is trying so hard to keep you 
 inside of its garbage-like "ecosystem" by making it very hard 
 and even sometimes impossible to connect with hardware/software
-other than Apple's, and all these <strong class="color4">morons</strong> will be like 
+other than Apple's, and all these <strong class="red_text">morons</strong> will be like 
 > "BuT, DuuuuuDe, APpLE DeVIces WeRk WItH oTher AppLE DeViCes sO SMoOthLy" 
 Yeah, by making it impossible to work with basically everything else
 and you have to have apple garbage all around you.
@@ -87,11 +87,11 @@ There is one program, however, that is worth talking about separately, and that 
 "WhatsApp". It is the most widely used messaging application, though it has absolutely
 nothing extraordinary and some stuff that is even worse than an average messaging program.
 Here are some bad stuff about it:
-1. WhatsApp is not private, <strong class="color2">at all</strong>!
+1. WhatsApp is not private, <strong class="green_text">at all</strong>!
 1. You have to have a smartphone and a phone number.
 Imagine a piece of software requires you to have a phone to be able to use it,
 that is basically like saying that a $400  device is a dependency of that program,
-this is absolutely <strong class="color3">nuts</strong>. I find it quite absurd
+this is absolutely <strong class="purple_text">nuts</strong>. I find it quite absurd
 that people don't find it absurd. 
 >If a program as simple as a messaging app requires you to have
 >a cell phone, you shouldn't even be using that,
@@ -133,6 +133,6 @@ Summing it up
 -------------
 Smartphones are useless pieces of garbage that are overpriced, not privacy respecting and 
 meant for normies who don't understand how technology
-works, or at least how it should work, <strong class="color3">no offense</strong>.
+works, or at least how it should work, <strong class="purple_text">no offense</strong>.
 Even if you must use a smartphone, that doesn't change the fact that they are 
 bad for you.
