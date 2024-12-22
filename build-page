@@ -20,7 +20,7 @@ cat << EOF
 	</tr>
 	</table>
 	<script>
-		let quotes = ["Uncensored", "Oh mamma mia!", "Memento Mori!"];
+		let quotes = ["Uncensored", "Oh mamma mia!", "Memento Mori!", "Oh là là!", "C'est légal parce que je le veux"];
 		let randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
 		document.getElementById("quote").innerText = randomQuote;
 	</script>
