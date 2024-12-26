@@ -20,8 +20,8 @@ a {
 }
 
 a:hover {
-	color: #B48EAD;	/* Purple */
 	font-weight: bold;
+	color: #B48EAD;	/* Purple */
 }
 
 small {
@@ -56,16 +56,6 @@ table {
 	/*Left blank intentionally*/
 }
 
-.date {
-	color : #bbbbbb; /* Light Gray */
-	padding-right:0.25em;
-}
-
-.contact {
-	color : #bbbbbb; /* Light Gray */
-	padding-right:2.9em;
-}
-
 .orange_text {
 	color: #EBCB8B;	/* Orange */
 }
@@ -87,6 +77,7 @@ table {
 
 #copyleft {
 	color: #696969; /* Dark Gray */
+	margin-left: 1em;
 }
 
 /*
@@ -101,12 +92,14 @@ table {
 	color: #FFFFFF; /* White */
 	font-weight: normal;
 }
+
 #quote {
 	font-size: 1.3em;
 	text-align: right;
 	color: #C0C0C0; /* Darkish gray */
 	font-weight: 430;
 }
+
 #bar{
     width: 100%;
     line-height: 35px;
