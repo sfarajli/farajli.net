@@ -33,7 +33,9 @@ cat << EOF
 	<a class="menu_item" href="/wiki/wiki.html">Wiki/</a>
 <a class="menu_item right_menu_item" href="https://git.farajli.net">Git</a>
 </div>
+<div class="text">
 	$(sed '1 s/<!--.*-->//' "${filename}" | smu)
+</div>
 <p id="copyleft"><br>copyleft (c) 2024 Suleyman Farajli</p>
 
 </body>
