@@ -1,5 +1,7 @@
 <!-- Title: My personal Website -->
 
+Someone that is somewhat interesting to some.
+
 ### recent posts
 
 <table>
