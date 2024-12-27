@@ -1,3 +1,63 @@
 <!-- Title: Software -->
 
-Still working on it...
+## Criteria
+Here are some of the programs I use, recommend and some I dislike.
+
+For software to be usable for me it has to be:
+1. Free and Open-source
+1. Uncomplicated, simple to use
+1. Lightweight
+1. Fast
+
+### Operating systems
+* [Arch Linux](https://archlinux.org): The best linux distro for most people, since installing packages is very convenient using the AUR and has a great wiki.
+* [Gentoo](https://gentoo.org): Unique operating system with a proper wiki, see my [post](../posts/gentoo.html) about it.
+* [Void](https://voidlinux.org): Great linux distros free from filthy systemd and glibc.
+* [Debian](https://www.debian.org/): Easy to install and use, the best distro for beginners.
+* [FreeBSD](https://www.freebsd.org/): Simple operating system with a clean and elegant codebase.
+* <a href="https://ubuntu.com" class=orange_text>Ubuntu</a>: Debian done wrong with snaps.
+* <a href="https://manjaro.org" class=orange_text>Manjaro</a>: Same as ubuntu except even worse doesn't even work properly.
+
+### Programming languages
+* C: Portable assembly, basically the default programming language for unix.
+* Go: Modern version of C, very convenient and safe to write programs in.
+* Posix Shell: Concise and convenient for scripts and small programs.
+* <strong class=orange_text>C++</strong>: Bloated, not safe and a mess, every bad piece of software I've ever used were written in c++.
+
+### Window managers
+* [DWM](https://dwm.suckless.org): At first a little hard to configure but at the end totally worth it.
+* [BSPWM](https://github.com/baskerville/bspwm): Best static window manager, easy to configure with and an extraordinary tool called bspc.
+* [i3wm](https://i3wm.org/): An average window manager, good for beginners.
+
+### Text editors
+* Vim and [Nvim](https://neovim.io/): Just way too convenient to be real.
+* <span class=orange_text>JetBrains IDEs</span>: Bloated, heavy, overcomplicated and costs money(?).
+
+### Browser
+* [Qutebrowser](https://www.qutebrowser.org/): Has vim-keybinds making it very convenient to use.
+* [Firefox](https://www.mozilla.org/en-GB/firefox/new/): Sometimes, you need a bloated browser to view bloated sites.
+
+### Terminal and terminal Utilities
+* [st](https://st.suckless.org/): Terminal emulator.
+* [cmus](https://cmus.github.io/): Music player.
+* [zsh](https://www.zsh.org/): Interactive shell.
+* [dash](http://gondor.apana.org.au/~herbert/dash/): Shell script interpreter.
+* [lf](https://github.com/gokcehan/lf): File manager.
+
+### Xorg utilities
+* [dmenu](https://tools.suckless.org/dmenu/): Interactive menu to select items.
+* [slstatus](https://tools.suckless.org/slstatus/): Status monitor.
+* [mpv](https://mpv.io/): Media player.
+* [nsxiv](https://nsxiv.codeberg.page/): Image viewer.
+* [zathura](https://pwmt.org/projects/zathura/): pdf viewer.
+
+### Other
+* [smu](https://github.com/Gottox/smu): markdown to html compiler
+* [git](https://git-scm.com/): I like git, like everyone else.
+
+## About hardware
+I don't really care about hardware because it is easily replacable and I am fine with whatever just works,
+as long as it not expensive (in most cases overpriced). If you use proper software any hardware should get the job done.
+
+I am not going to shill thinkpads like everyone else though I think they are fine, to me the only thing
+that makes thinkpad different from others is the fact that they are librebootable and really cheap.
