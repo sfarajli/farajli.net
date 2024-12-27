@@ -18,6 +18,8 @@ For software to be usable for me it has to be:
 * [FreeBSD](https://www.freebsd.org/): Simple operating system with a clean and elegant codebase.
 * <a href="https://ubuntu.com" class=orange_text>Ubuntu</a>: Debian done wrong with snaps.
 * <a href="https://manjaro.org" class=orange_text>Manjaro</a>: Same as ubuntu except even worse doesn't even work properly.
+* <span class=orange_text>MacOS</span>: BSD done wrong, with apple garbage.
+* <span class=orange_text>Windows</span>: Graphical trash.
 
 ### Programming languages
 * C: Portable assembly, basically the default programming language for unix.
