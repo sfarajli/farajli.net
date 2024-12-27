@@ -25,7 +25,7 @@ For software to be usable for me it has to be:
 * C: Portable assembly, basically the default programming language for unix.
 * Go: Modern version of C, very convenient and safe to write programs in.
 * Posix Shell: Concise and convenient for scripts and small programs.
-* <strong class=orange_text>C++</strong>: Bloated, not safe and a mess, every bad piece of software I've ever used were written in C++.
+* <strong class=orange_text>C++</strong>: Bloated, not safe and a mess, every bad piece of software I've ever used was written in C++.
 
 ### Window managers
 * [DWM](https://dwm.suckless.org): At first a little hard to configure but at the end totally worth it.
