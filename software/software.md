@@ -67,5 +67,5 @@ that makes thinkpad different from others is the fact that they are librebootabl
 
 ## See also
 * [Suckless Rocks page](https://suckless.org/rocks/)
+* [Cat-v harmful stuff](https://harmful.cat-v.org/software/)
 * [Luke Smith's Post](https://lukesmith.xyz/programs/)
-* [Cat-v harmfull stuff](https://harmful.cat-v.org/software/)
