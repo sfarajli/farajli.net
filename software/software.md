@@ -1,9 +1,9 @@
 <!-- Title: Software -->
 
-## Criteria
 Here are some of the programs I use, recommend and some I dislike.
 You can get my configuration for most of these programs [here](https://git.farajli.net/slcf.git).
 
+## Criteria
 For software to be usable for me it has to be:
 1. Free and Open-source
 1. Uncomplicated, simple to use
