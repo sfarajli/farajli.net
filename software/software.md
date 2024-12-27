@@ -2,6 +2,7 @@
 
 ## Criteria
 Here are some of the programs I use, recommend and some I dislike.
+You can get my configuration for most of these programs [here](https://git.farajli.net/slcf.git).
 
 For software to be usable for me it has to be:
 1. Free and Open-source
@@ -22,7 +23,7 @@ For software to be usable for me it has to be:
 * C: Portable assembly, basically the default programming language for unix.
 * Go: Modern version of C, very convenient and safe to write programs in.
 * Posix Shell: Concise and convenient for scripts and small programs.
-* <strong class=orange_text>C++</strong>: Bloated, not safe and a mess, every bad piece of software I've ever used were written in c++.
+* <strong class=orange_text>C++</strong>: Bloated, not safe and a mess, every bad piece of software I've ever used were written in C++.
 
 ### Window managers
 * [DWM](https://dwm.suckless.org): At first a little hard to configure but at the end totally worth it.
@@ -30,7 +31,7 @@ For software to be usable for me it has to be:
 * [i3wm](https://i3wm.org/): An average window manager, good for beginners.
 
 ### Text editors
-* Vim and [Nvim](https://neovim.io/): Just way too convenient to be real.
+* vim and [nvim](https://neovim.io/): Just way too convenient to be real.
 * <span class=orange_text>JetBrains IDEs</span>: Bloated, heavy, overcomplicated and costs money(?).
 
 ### Browser
