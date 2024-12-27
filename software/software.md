@@ -64,3 +64,8 @@ as long as it not expensive (in most cases overpriced). If you use proper softwa
 
 I am not going to shill thinkpads like everyone else though I think they are fine, to me the only thing
 that makes thinkpad different from others is the fact that they are librebootable and really cheap.
+
+## See also
+* [Suckless Rocks page](https://suckless.org/rocks/)
+* [Luke Smith's Post](https://lukesmith.xyz/programs/)
+* [Cat-v harmfull stuff](https://harmful.cat-v.org/software/)
