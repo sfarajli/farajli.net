@@ -41,7 +41,8 @@ For software to be usable for me it has to be:
 * [Firefox](https://www.mozilla.org/en-GB/firefox/new/): Sometimes, you need a bloated browser to view bloated sites.
 
 ### Terminal and terminal Utilities
-* [st](https://st.suckless.org/): Terminal emulator.
+* [st](https://st.suckless.org/): Terminal emulator though a little hard to configure.
+* [alacritty](https://alacritty.org/): Terminal emulator which works perfectly fine without any configuration.
 * [cmus](https://cmus.github.io/): Music player.
 * [zsh](https://www.zsh.org/): Interactive shell.
 * [dash](http://gondor.apana.org.au/~herbert/dash/): Shell script interpreter.
