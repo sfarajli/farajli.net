@@ -64,7 +64,7 @@ I don't really care about hardware because it is easily replacable and I am fine
 as long as it not expensive (in most cases overpriced). If you use proper software any hardware should get the job done.
 
 I am not going to shill thinkpads like everyone else though I think they are fine, to me only 2 things
-set apart thinkpads from all the other laptops and they are, firstly, the fact that they are librebootable and, secondly,
+set apart thinkpads from all the other laptops, firstly, the fact that they are librebootable and, secondly,
 they are really cheap.
 
 ## See also
