@@ -47,6 +47,7 @@ For software to be usable for me it has to be:
 * [zsh](https://www.zsh.org/): Interactive shell.
 * [dash](http://gondor.apana.org.au/~herbert/dash/): Shell script interpreter.
 * [lf](https://github.com/gokcehan/lf): File manager.
+* [translate-shell](https://github.com/soimort/translate-shell): Cli translator.
 
 ### Xorg utilities
 * [dmenu](https://tools.suckless.org/dmenu/): Interactive menu to select items.
