@@ -37,7 +37,7 @@ cat << EOF
 <div class="text">
 	$(sed '1 s/<!--.*-->//' "${filename}" | smu)
 </div>
-<p id="copyleft"><br>copyleft (c) 2024 Suleyman Farajli</p>
+<p id="copyleft"><br>copyleft (c) 2024-2025 Suleyman Farajli</p>
 
 </body>
 </html>
