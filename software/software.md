@@ -62,9 +62,9 @@ For software to be usable for me it has to be:
 
 ## About hardware
 I don't really care about hardware because it is easily replacable and I am fine with whatever just works,
-as long as it not expensive (in most cases overpriced). If you use proper software any hardware should get the job done.
+as long as it not overpriced. If you use proper software any hardware should get the job done.
 
-I am not going to shill thinkpads like everyone else though I think they are fine, to me only 2 things
+I am not going to shill thinkpads like everyone else, though I think they are fine, to me only 2 things
 set apart thinkpads from all the other laptops, firstly, the fact that they are librebootable and, secondly,
 they are really cheap.
 
