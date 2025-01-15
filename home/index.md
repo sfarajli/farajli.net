@@ -1,6 +1,6 @@
 <!-- Title: My personal Website -->
 
-Someone that is somewhat interesting to some.
+Yari, Yari, Yara.
 
 ### recent posts
 
