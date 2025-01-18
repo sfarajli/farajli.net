@@ -29,10 +29,10 @@ cat << EOF
 	<hr class="separator">
 
 <div class="menu">
-	<a class="menu_item" href="/home/index.html">Home/</a>
-	<a class="menu_item" href="/software/software.html">Software/</a>
-	<a class="menu_item" href="/wiki/wiki.html">Wiki/</a>
-<a class="menu_item right_menu_item" href="https://git.farajli.net">Git</a>
+	<a class="menu_item" href="https://farajli.net">Home/</a>
+	<a class="menu_item" href="https://posts.farajli.net">Posts/</a>
+	<a class="menu_item" href="https://archive.farajli.net">Archive/</a>
+	<a class="menu_item right_menu_item" href="https://git.farajli.net">Git</a>
 </div>
 <div class="text">
 	$(sed '1 s/<!--.*-->//' "${filename}" | smu)
