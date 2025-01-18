@@ -1,3 +1,5 @@
+<!-- Title: Posts -->
+
 <table>
     <tr><td><time>2024-12-31</time></td><td><a href="/posts/2024_new_year.html">Happy new year!</a></td></tr>
     <tr><td><time>2024-09-26</time></td><td><a href="/posts/qizlar.html">Qızlar haqqında.</a></td></tr>

@@ -1,3 +1,5 @@
+<!-- Title: No smartphone!-->
+
 Why I absolutely hate smartphones.
 ----------------------------------
 
