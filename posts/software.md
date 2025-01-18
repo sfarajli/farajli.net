@@ -57,8 +57,8 @@ For software to be usable for me it has to be:
 * [zathura](https://pwmt.org/projects/zathura/): pdf viewer.
 
 ### Other
-* [smu](https://github.com/Gottox/smu): markdown to html compiler
-* [git](https://git-scm.com/): I like git, like everyone else.
+* [smu](https://github.com/Gottox/smu): Markdown to html compiler.
+* [git](https://git-scm.com/): Version control system.
 
 ## About hardware
 I don't really care about hardware because it is easily replacable and I am fine with whatever just works,
