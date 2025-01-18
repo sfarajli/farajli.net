@@ -1,5 +1,14 @@
 /* 10th June 2024, Designer: Suleyman Farajli */
 
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+.jetbrains-mono {
+  font-family: "JetBrains Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
 body {
 	font: 15px jetbrains mono;
 	width: 60em; 			/* make width window size independent */
