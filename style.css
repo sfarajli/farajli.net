@@ -26,6 +26,16 @@ a:hover {
 	color: #B48EAD;	/* Purple */
 }
 
+td {
+	font-size: 1.3em;
+}
+
+time {
+	color: #bbbbbb;
+	padding-right:2em;
+	font-size: 0.77em;
+}
+
 li {
 	font-size: 1.1em;
 }
