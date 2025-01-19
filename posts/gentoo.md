@@ -4,14 +4,14 @@ Why I prefer Gentoo over Arch.
 ------------------------------
 A lot of people say very good things about gentoo linux, it is very well maintained,
 It is more secure, It is lightweight and so on. But when it comes down to it,
-very few people actually use gentoo, I thing that is because they install it 
+very few people actually use gentoo, I think that is because they install it 
 and after a month or so they really get sick of waiting for the packages to compile 
 and they switch back to whatever they were using before. I know it because,
 I had done that in the past, I dual-booted my machine with gentoo and arch linux
 intending to only use gentoo, and arch only when I didn't have the time to wait
 for the package to compile, but ended up only booting to arch and almost never 
 to gentoo, at that time if you were to ask me the best package manager 
-I would have unhesitatingly said arch's pacman, while I still thing that pacman is the best 
+I would have unhesitatingly said arch's pacman, while I still think that pacman is the best 
 <strong class="orange_text">binary</strong> package manager
 for the past few months I have started to really like gentoo and its package manager
 portage and there are different reasons for that.   
@@ -20,7 +20,7 @@ portage and there are different reasons for that.
 On unix-like operating systems you generally use 
 open-source software and that software is made to be compiled by the users specific 
 to their machines, but on binary based distros you use programs that are compiled for
-you by someone else and again to me, personally compiling just makes more sense.
+you by someone else and again to me, personally, compiling just makes more sense.
 
 ### It gives you more perspective to the program you use.
 If you'd downloaded a binary package you would only be able to tell if a program is fast, 
@@ -41,7 +41,7 @@ resulting in more stable and more performant system. God forbid you if
 you are using arch linux and have access to the AUR 
 (I had installed more than 2000 useless packages on my arch system). 
 
-### It is more secure and faster and more lightweight (at least in theory).
+### It is more secure, lightweight and faster (at least in theory).
 I have not noticed any significant difference in terms of performance 
 between gentoo and binary based distros and I kind of think that security 
 on client OSes is overrated, but for some few people these might be important 
