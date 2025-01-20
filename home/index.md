@@ -17,5 +17,5 @@ Yari, Yari, Yara.
 		<tr><td style="color: #bbbbbb; font-size: 0.93em; padding-right: 5em">email</td><td><a href="mailto:suleyman@farajli.net">suleyman@farajli.net</a></td></tr>
 		<tr><td style="color: #bbbbbb; font-size: 0.93em; padding-right: 5em">ssh</td><td><a href="/home/ssh.html">Public key</a></td></tr>
 		<tr><td style="color: #bbbbbb; font-size: 0.93em; padding-right: 5em">github</td><td><a  href="https://github.com/sfarajli">sfarajli</a></td></tr>
-		<tr><td style="color: #bbbbbb; font-size: 0.93em; padding-right: 5em">resume</td><td><a  href="./resume.pdf">resume.pdf</a></td></tr>
+		<tr><td style="color: #bbbbbb; font-size: 0.93em; padding-right: 5em">resume</td><td><a  href="/home/resume.pdf">resume.pdf</a></td></tr>
 </table>
