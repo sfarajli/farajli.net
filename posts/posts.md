@@ -1,6 +1,7 @@
 <!-- Title: Posts -->
 
 <table>
+    <tr><td><time>2025-01-24</time></td><td><a href="/posts/selfhostmail.html">Reasons not to host an email server.</a></td></tr>
     <tr><td><time>2024-12-31</time></td><td><a href="/posts/2024_new_year.html">Happy new year!</a></td></tr>
     <tr><td><time>2024-12-27</time></td><td><a href="/posts/software.html">Software I use.</a></td></tr>
     <tr><td><time>2024-09-26</time></td><td><a href="/posts/qizlar.html">Qızlar haqqında.</a></td></tr>
