@@ -36,9 +36,9 @@ Configuring an email server was perhaps the hardest thing that I'd ever done
 ### - Almost certainly, your mails won't be delivered.
 
 Even after going through the very difficult process of finding the correct server provider, 
-documentation and setting everything up (DKIM, SPF etc.) you'll still end up in spams
+documentation and setting everything up (DKIM, SPF etc.) you'll still end up in spams,
 you might be able to pass spam filters of some email services, but you'll never feel 
-confident of sending mails because because big email services sometimes update their spam filters
+confident of sending mails because big email services sometimes update their spam filters
 and you got to keep up with those as well, so it doesn't just end there when you set it up.
 
 ### Summing it up
