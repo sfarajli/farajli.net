@@ -32,7 +32,7 @@ involved in the process even just a small update on one program can make the doc
 Configuring an email server was perhaps the hardest thing that I'd ever done 
 (even after finding the proper documentation), I spent weeks on that.
 
-### - Almost certainly, Your mails won't be delivered.
+### - Almost certainly, your mails won't be delivered.
 
 Even after going through the very difficult process of finding the correct server provider, 
 documentation and setting everything up (DKIM, SPF etc.) you'll still end up in spams
