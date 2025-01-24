@@ -22,11 +22,11 @@ trash, but also some very cringe way to interact with the hardware. 
 
 Now, let's talk about why
 
-1. Operating systems
-1. Package Management
-1. User space applications
-1. Hardware
-1. Privacy and Security
+- Operating systems
+- Package Management
+- User space applications
+- Hardware
+- Privacy and Security
 Absolutely suck on "smart" phones.
 
 Operating Systems
@@ -91,8 +91,8 @@ There is one program, however, that is worth talking about separately, and that 
 nothing extraordinary and some stuff that is even worse than an average messaging program.
 Here are some bad stuff about it:
 
-1. WhatsApp is not private, <strong class="green_text">at all</strong>!
-1. You have to have a smartphone and a phone number.
+- WhatsApp is not private, <strong class="green_text">at all</strong>!
+- You have to have a smartphone and a phone number.
 Imagine a piece of software requires you to have a phone to be able to use it,
 that is basically like saying that a $400  device is a dependency of that program,
 this is absolutely <strong class="purple_text">nuts</strong>. I find it quite absurd
