@@ -6,7 +6,7 @@ Last summer, I had successfully managed to host my email server but
 a couple of days ago I completely removed everything from my server
 and purchased an email hosting service.
 
-I'd like to share my experience with setting up an email server
+I'd like to share my experience with hosting an email server
 and what makes the process an absolute nightmare.
 
 ### - It's hard to find an affordable VPS provider that doesn't block port 25. 
@@ -24,9 +24,10 @@ server providers.
 
 ### - Not enough documentation is available and some is outdated.
 
-There aren't that much documentation for mail services, I think partially because of
-the process being so tough that no one really wants to document it and there are so many commands 
-involved in the process even just a small update on one program can make the documentation outdated.
+There aren't that much documentation for setting up an email server, I think that is
+partially because of the process being so tough that no one really wants to document it 
+and there are so many commands involved in the process
+even just a small update on one program can make the documentation outdated.
 
 ### - It's very hard to set up.
 Configuring an email server was perhaps the hardest thing that I'd ever done 
