@@ -24,7 +24,7 @@ server providers.
 
 ### - Not enough documentation is available and some is outdated.
 
-There aren't that much documentation for setting up an email server, I think that is
+There isn't that much documentation for setting up an email server, I think that is
 partially because of the process being so tough that no one really wants to document it 
 and there are so many commands involved in the process
 even just a small update on one program can make the documentation outdated.
