@@ -29,9 +29,9 @@ cat << EOF
 	<hr class="separator">
 
 <div class="menu">
-	<a class="menu_item" href="https://farajli.net">Home/</a>
-	<a class="menu_item" href="https://posts.farajli.net">Posts/</a>
-	<a class="menu_item" href="https://archive.farajli.net">Archive/</a>
+	<a class="menu_item" href="/home/index.html">Home/</a>
+	<a class="menu_item" href="/posts/posts.html">Posts/</a>
+	<a class="menu_item" href="/archive/archive.html">Archive/</a>
 	<a class="menu_item right_menu_item" href="https://git.farajli.net">Git</a>
 </div>
 <div class="text">
