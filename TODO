@@ -1,4 +1,4 @@
-- build-page: move html output to a seperate directory
++ build-page: move html output to a seperate directory
 - store fonts on the website itself rather than using google fonts
 - proper handling of posts 
 - add a post about coding styles

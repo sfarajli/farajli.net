@@ -4,9 +4,10 @@ HTML = $(SRC:.md=.html)
 all: $(HTML)
 
 %.html: %.md build-page
-	sh build-page $< > $@
+	mkdir -p out/$$(dirname $@)
+	sh build-page $< > out/$@
 
 clean:
-	rm -f $(HTML)
+	rm -rf out
 
 .PHONY: all clean
