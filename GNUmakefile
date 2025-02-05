@@ -8,6 +8,6 @@ all: $(HTML)
 	sh build-page $< > out/$@
 
 clean:
-	rm -rf out
+	rm -rf out/
 
 .PHONY: all clean
