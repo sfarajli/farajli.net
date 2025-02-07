@@ -1,1 +1,2 @@
 - lists on mobile view has no margin
+- Makefile html:md dependency is broken with the introduction of out/ directory
