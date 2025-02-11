@@ -1,2 +1,3 @@
 - lists on mobile view has no margin
 - Makefile html:md dependency is broken with the introduction of out/ directory
+- Non-markdown files are not placed in the site (CV, Archive files, etc.) 
