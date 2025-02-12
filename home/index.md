@@ -1,6 +1,6 @@
 <!-- Title: My personal Website -->
 
-Yari, Yari, Yara.
+An engineering student interested in languages and literally anything about computers.
 
 ### top posts
 
