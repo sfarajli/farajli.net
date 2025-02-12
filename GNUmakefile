@@ -6,10 +6,10 @@ all: $(HTML)
 %.html: %.md build-page
 	sh build-page $< > $@
 
-output: $(HTML)
-	echo $? | xargs -n 1 dirname | xargs -I _ mkdir -p $@/_
-	echo $? | xargs -n 1 | xargs -I _ cp _ 	$@/_
-	cp favicon.ico style.css $@/
+output/: $(HTML)
+	echo $? | xargs -n 1 dirname | xargs -I _ mkdir -p $@_
+	echo $? | xargs -n 1 | xargs -I _ cp _ 	$@_
+	cp favicon.ico style.css $@
 
 clean:
 	rm -rf $(HTML) output/
