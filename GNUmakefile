@@ -1,5 +1,5 @@
-SRC = $(shell find . -name '*.md')
-HTML = $(patsubst ./%.md, %.html, $(SRC))
+MARKDOWN = $(shell find . -name '*.md')
+HTML 	 = $(patsubst ./%.md, %.html, $(MARKDOWN))
 
 all: $(HTML)
 
