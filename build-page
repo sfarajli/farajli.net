@@ -35,7 +35,7 @@ cat << EOF
 	<a class="menu_item right_menu_item" href="https://git.farajli.net">Git</a>
 </div>
 <div class="text">
-	$(sed '1 s/<!--.*-->//' "${filename}" | smu)
+	$(sed '1 s/<!--.*-->//' "${filename}" | pandoc -t html)
 </div>
 <p id="copyleft"><br>copyleft (c) 2024-2025 Suleyman Farajli</p>
 
