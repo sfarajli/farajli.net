@@ -93,6 +93,7 @@ Here are some bad stuff about it:
 
 - WhatsApp is not private, <strong class="green_text">at all</strong>!
 - You have to have a smartphone and a phone number.
+
 Imagine a piece of software requires you to have a phone to be able to use it,
 that is basically like saying that a $400  device is a dependency of that program,
 this is absolutely <strong class="purple_text">nuts</strong>. I find it quite absurd
