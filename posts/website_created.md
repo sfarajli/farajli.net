@@ -15,6 +15,6 @@ Here are some of the advantages of my website compared to a lot of contemporary 
 
 - Doesn't fill your entire ram.
 - Doesn't have ads, tracker or unnecessary JavaScript.
-- Loads **Fast**!.
+- Loads **Fast**!
 
 As of now, there isn't that much of content here, but I will probably add a lot more.
