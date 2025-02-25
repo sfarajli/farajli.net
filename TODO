@@ -2,7 +2,7 @@
 - store fonts on the website itself rather than using google fonts
 - proper handling of posts 
 - add a post about coding styles
-- add pgp key
++ add pgp key
 - add how to contact me (pgp signed mail)
 - add copyright link
 + style.css: needs to be reorganised.
