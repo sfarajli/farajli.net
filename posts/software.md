@@ -3,7 +3,7 @@
 Here are some of the programs I use, recommend and some I dislike.
 You can get my configuration for most of these programs [here](https://git.farajli.net/slcf.git).
 
-## Criteria
+### Criteria
 For software to be usable for me it has to be:
 1. Free and Open-source
 1. Uncomplicated, simple to use
@@ -60,7 +60,7 @@ For software to be usable for me it has to be:
 * [pandoc](https://pandoc.org): Document converter.
 * [git](https://git-scm.com/): Version control system.
 
-## About hardware
+### About hardware
 I don't really care about hardware because it is easily replacable and I am fine with whatever just works,
 as long as it not overpriced. If you use proper software any hardware should get the job done.
 
@@ -68,7 +68,7 @@ I am not going to shill thinkpads like everyone else, though I think they are fi
 set apart thinkpads from all the other laptops, firstly, the fact that they are librebootable and, secondly,
 they are really cheap.
 
-## See also
+### See also
 * [Suckless Rocks page](https://suckless.org/rocks/)
 * [Cat-v harmful stuff](https://harmful.cat-v.org/software/)
 * [Luke Smith's Post](https://lukesmith.xyz/programs/)

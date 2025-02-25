@@ -1,7 +1,6 @@
 <!-- Title: No smartphone!-->
 
-Why I absolutely hate smartphones.
-----------------------------------
+### Why I absolutely hate smartphones.
 
 For the past few years, the question that I have been asked the most
 is that "why don't you use a smartphone", but I've never really 
@@ -29,14 +28,13 @@ Now, let's talk about why
 - Privacy and Security
 Absolutely suck on "smart" phones.
 
-Operating Systems
------------------
+### Operating Systems
 There are 2 main OSes for phones: iOS and Android, there are also some not widely used ones 
 like legacy Windows Phone and even some open-source ones, though here, I shall only talk about the
 first 2 that I have mentioned, but that should also be somewhat relevant 
 to almost all the other phone OSes as well.
 
-<strong class="orange_text">Android Sucks</strong>! because, you can't even perform the most basic
+**Android Sucks**! because, you can't even perform the most basic
 computer functionalities 
 like compiling very simple software, writing scripts, and so on, you don't even have
 the root access to the phone you "own", but the company that sold you that has full 
@@ -57,13 +55,12 @@ it should be obvious why, apple! the single worst company 
 that has ever existed, Apple is trying so hard to keep you 
 inside of its garbage-like "ecosystem" by making it very hard 
 and even sometimes impossible to connect with hardware/software
-other than Apple's, and all these <strong class="red_text">morons</strong> will be like 
+other than Apple's, and all these ***morons*** will be like 
 > "BuT, DuuuuuDe, APpLE DeVIces WeRk WItH oTher AppLE DeViCes sO SMoOthLy" 
 Yeah, by making it impossible to work with basically everything else
 and you have to have apple garbage all around you.
 
-Package Management
-------------------
+### Package Management
 Android and iOS do have some sort of package management,
 on Android, it's Play store (But you can also install packages using .apk format)
 on iOS, you have app store.  
@@ -77,8 +74,7 @@ inject absolutely anything inside them.  
 Those companies need profit no matter what, meaning they would do anything to 
 get profit, even unethical stuff, and you are the one who let them do that to you.
 
-User Space applications
------------------------
+### User Space applications
 By user space applications, I mean just the programs that people
 install on smartphones. Frankly speaking, those programs are
 just for normies who don't understand 
@@ -91,19 +87,18 @@ There is one program, however, that is worth talking about separately, and that 
 nothing extraordinary and some stuff that is even worse than an average messaging program.
 Here are some bad stuff about it:
 
-- WhatsApp is not private, <strong class="green_text">at all</strong>!
+- WhatsApp is not private, **at all**!
 - You have to have a smartphone and a phone number.
 
 Imagine a piece of software requires you to have a phone to be able to use it,
 that is basically like saying that a $400  device is a dependency of that program,
-this is absolutely <strong class="purple_text">nuts</strong>. I find it quite absurd
+this is absolutely *nuts*. I find it quite absurd
 that people don't find it absurd. 
->If a program as simple as a messaging app requires you to have
->a cell phone, you shouldn't even be using that,
->no matter how many people around you use it!
+> If a program as simple as a messaging app requires you to have
+> a cell phone, you shouldn't even be using that,
+> no matter how many people around you use it!
 
-Hardware
---------
+### Hardware
 Hardware of cellphones absolutely suck they are designed to be broken so easily you can
 break them by accident, that is, of course, 
 to sell more of them, they are nothing like old classic solid Nokia phones 
@@ -113,31 +108,27 @@ I just want buttons to press, not touchscreens to touch.  
 Another thing is that you can't upgrade your RAM or your storage and you're supposed to use overpriced
 services like iCloud or Google Drive.
 
-Privacy and security
---------------------
+### Privacy and security
 Privacy just doesn't exist on smartphones; that is just a matter of fact.
 If you use an iPhone, all your photos are sent to Apple servers and can be hacked 
 (though not quite probable) since, they are not stored only on your local system
 which makes it less secure as well,
 On Android, people use Google Photos, which is basically as bad as iPhones.
 
-Health
-------
+### Health
 Phones are also bad for your health, I can't
 tell you the specifics since I am not a doctor.
 But it is common knowledge that phones are bad for you.
 
-Good stuff about phones
------------------------
+### Good stuff about phones
 The only good thing about a phone is its camera. 
 though many people take too many useless pictures
 resulting in a mess of data. Nonetheless, cameras are very useful
 but it is not worth it to use a smartphone just because of that.
 
-Summing it up
--------------
+### Summing it up
 Smartphones are useless pieces of garbage that are overpriced, not privacy respecting and 
 meant for normies who don't understand how technology
-works, or at least how it should work, <strong class="purple_text">no offense</strong>.
+works, or at least how it should work, ***no offense***.
 Even if you must use a smartphone, that doesn't change the fact that they are 
 bad for you.

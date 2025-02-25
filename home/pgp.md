@@ -1,7 +1,6 @@
 <!-- Title: PGP key -->
 
-Public PGP key
---------------
+### Public PGP key
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 

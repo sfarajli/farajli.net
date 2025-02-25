@@ -1,6 +1,6 @@
 <!-- Title: Reasons not to host an email server -->
 
-## Reasons to not host your own email server.
+### Reasons to not host your own email server.
 
 Last summer, I had successfully managed to host my email server but 
 a couple of days ago I completely removed everything from my server

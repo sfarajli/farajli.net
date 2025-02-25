@@ -1,7 +1,6 @@
 <!-- Title: Why I prefer Gentoo -->
 
-Why I prefer Gentoo over Arch.
-------------------------------
+### Why I prefer Gentoo over Arch.
 A lot of people say very good things about gentoo linux, it is very well maintained,
 It is more secure, It is lightweight and so on. But when it comes down to it,
 very few people actually use gentoo, I think that is because they install it 
@@ -12,7 +11,7 @@ intending to only use gentoo, and arch only when I didn't have the time to wait
 for the package to compile, but ended up only booting to arch and almost never 
 to gentoo, at that time if you were to ask me the best package manager 
 I would have unhesitatingly said arch's pacman, while I still think that pacman is the best 
-<strong class="orange_text">binary</strong> package manager
+**binary** package manager
 for the past few months I have started to really like gentoo and its package manager
 portage and there are different reasons for that.   
 
@@ -49,18 +48,18 @@ since you literally can skip some useless parts of a program (useless for you of
 resulting in less bloated, therefore faster and more secure programs, but again I 
 don't really find it that important.
 
-### <strong class="red_text">No systemd</strong>!
+### **No systemd**!
 I am not against systemd but I prefer to not use it.
 On gentoo the default init system is openrc and it works 
 with no problem.
-
 
 ### Bad parts.
 Like everything, it has some negative stuff about it as well,
 those are
 
-* Compilation can take some time.
-* Gentoo is the one of <strong class="orange_text">the hardest</strong> distro to manage.  
+- Compilation can take some time.
+- Gentoo is the one of **the hardest** distro to manage.  
+
 I am saying both of those with an asterisk, because 
 although I agree that there are some big pieces of software that you basically have to have 
 like a browser, (it took 6h to compile a browser on my machine) but most of the time
