@@ -1,28 +1,25 @@
-/* 10th June 2024, Designer: Suleyman Farajli */
+/* 
+* Stylesheet of farajli.net 
+*/
 
+/* FIXME: Don't use google fonts */
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@370&display=swap');
 
 .jetbrains-mono {
-  font-family: "JetBrains Mono", serif;
-  font-optical-sizing: auto;
-  font-weight: 370;
-  font-style: normal;
+	font-family: "JetBrains Mono", serif;
+	font-optical-sizing: auto;
+	font-weight: 370;
+	font-style: normal;
 }
 
 body {
-	font: 15px jetbrains mono;
-	width: 60em; 			/* make width window size independent */
-	display:block;
-	padding-top: 4em;
-	margin: auto;
+	font: 20px jetbrains mono;
+	width: 60em; 		
+	display: block;
 	background-color: #1c1c1c; /* Almost Black */
 	color: #ffffff;	/* White */
-}
-
-p {
-	padding: 0em;
-	margin: 0em;
-	font-size: 1.3em;
+	padding-left: 1em;
+	margin: auto;
 }
 
 a {
@@ -34,39 +31,12 @@ a:hover {
 	color: #B48EAD;	/* Purple */
 }
 
-td {
-	font-size: 1.3em;
-}
-
-time {
-	color: #bbbbbb;
-	padding-right:2em;
-	font-size: 0.77em;
-}
-
-li {
-	font-size: 1.1em;
-}
-
-small {
-	padding: 0.6em;
-}
-
-table {
-	padding-left: 1em;
-}
-
-.text{
-	margin-right: 1em;
-	margin-left: 1em;
-}
-
 .menu_item {
 	color: #BB6767;	/* Red */
-	font-weight: bold;
+	/* font-weight: bold; */
 	padding: 0.4em;
 	padding-right: 3em;
-	font-size: 1.3em;
+	font-size: 20px;
 	margin-right: 0.2em;
 	margin-left: 0.2em;
 }
@@ -76,56 +46,27 @@ table {
 	padding-right: 1em;
 }
 
-.menu {
-	margin-bottom: 1em;
-}
-
-.orange_text {
-	color: #EBCB8B;	/* Orange */
-}
-.green_text {
-	color: #A3BE8C;	/* Green */
-}
-.purple_text {
-	color: #B48EAD;	/* Purple */
-}
-.red_text {
-	color: #BB6767; /* Red */
-}
-.light_gray_text {
-	color: #bbbbbb; /* Light Gray */
-}
-.white_text {
-	color: #FFFFFF; /* White */
-}
-
-#copyleft {
-	color: #696969; /* Dark Gray */
-	margin-left: 0.7em; /* FIXME: don't use a random value */
-	padding-bottom: 1em;
-}
-
-/*
- * "pointer-events: none" doesn't work on some browsers,
- * to deactivate hover effect on this tag,
- * hover and regular styles are defined as the same
- */
-
-#header-link, #header-link:hover {
+#header-name {
 	text-align: left;
-	font-size: 2.0em;
+	font-size: 25px;
+	padding-top: 20px;
 	color: #FFFFFF; /* White */
 	font-weight: normal;
 }
 
 #quote {
-	font-size: 1.3em;
+	font-size: 20px;
 	text-align: right;
 	color: #C0C0C0; /* Darkish gray */
+	padding-top: 20px;
 	font-weight: 430;
 }
 
 #bar{
-    width: 100%;
-    line-height: 35px;
+	width: 100%;
+	line-height: 35px;
+}
+
+#copyleft {
+	color: #696969; /* Dark Gray */
 }
