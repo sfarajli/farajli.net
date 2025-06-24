@@ -57,4 +57,3 @@ This archive includes both my own project and third-party software that I use.
 -   Homepage: https://www.nerdfonts.com/
 -   Mirror:
     -   [JetBrainsMono.tar.gz](/archive/JetBrainsMono.tar.gz)
-        (2024-08-15)
