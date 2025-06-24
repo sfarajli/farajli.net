@@ -1,0 +1,14 @@
+#!/usr/bin/env python3
+
+import sys
+from parse_frontmatter import parse_frontmatter
+from pathlib import Path
+
+def isproper(file):
+    frontmatter = parse_frontmatter(file)
+    if not frontmatter.get("draft"):
+        print(file)
+
+script_dir = Path(__file__).resolve().parent
+for arg in sys.argv[1:]:
+    isproper(arg)

@@ -1,0 +1,88 @@
+/*
+* Stylesheet of farajli.net
+*/
+
+/* FIXME: Don't use google fonts */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@370&display=swap');
+
+.jetbrains-mono {
+	font-family: "JetBrains Mono", serif;
+	font-optical-sizing: auto;
+	font-weight: 370;
+	font-style: normal;
+}
+
+body {
+	font-family: "JetBrains Mono";
+	font-size: 18px;
+	width: 60em;
+	display: block;
+	background-color: #1c1c1c; /* Almost Black */
+	color: #ffffff;	/* White */
+	padding-left: 1em;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+	color: #5E81AC;	/* Blue */
+}
+
+a:hover {
+	color: #B48EAD;	/* Purple */
+}
+
+ul, ol {
+  margin: 0;
+  padding: 0;
+  list-style-position: inside; /* optional: keeps bullets/numbers inside */
+}
+
+li > ul,
+li > ol {
+  margin-left: 1.2em; /* or adjust as needed */
+  padding-left: 1em;
+}
+
+.menu_item {
+	color: #BB6767;	/* Red */
+	/* font-weight: bold; */
+	padding: 0.4em;
+	padding-right: 3em;
+	font-size: 20px;
+	margin-right: 0.2em;
+	margin-left: 0.2em;
+}
+
+.right_menu_item {
+	float: right;
+	padding-right: 1em;
+}
+
+#header-name {
+	text-align: left;
+	font-size: 25px;
+	padding-top: 20px;
+	color: #FFFFFF; /* White */
+	font-weight: normal;
+}
+
+#quote {
+	font-size: 20px;
+	text-align: right;
+	color: #C0C0C0; /* Darkish gray */
+	padding-top: 20px;
+	font-weight: 430;
+}
+
+#bar{
+	width: 100%;
+	line-height: 35px;
+}
+
+#copyleft {
+	color: #696969; /* Dark Gray */
+	/* display: block; */
+	margin-top: 2em;
+	margin-bottom: 1em;
+}

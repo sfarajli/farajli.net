@@ -1,0 +1,35 @@
+#!/usr/bin/env python3
+
+from parse_frontmatter import parse_frontmatter
+from pathlib import Path
+
+def generate_post_index():
+    script_dir = Path(__file__).parent.resolve()
+    posts_directory = script_dir / "../content/posts"
+    posts = []
+    for file in posts_directory.iterdir():
+        if file.is_file() and file.name != "index.md":
+            frontmatter=parse_frontmatter(file.resolve())
+            frontmatter["filename"] = file.name
+            if frontmatter["draft"]:
+                continue
+            posts.append(frontmatter)
+
+    sorted_posts = sorted(posts, key=lambda x: x["created"], reverse=True)
+
+    for i in sorted_posts:
+        html_file = i['filename'].replace(".md", ".html")
+        print(f"<time>{i['created']}:</time> [{i['title']}](/posts/{html_file})\n")
+
+print("""---
+title: "Posts"
+slug: "posts"
+css: |
+    time {
+        font-size: 16px;
+        color: #bbbbbb;
+        padding-right: 0.5em;
+    }
+---""")
+
+generate_post_index()

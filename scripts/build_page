@@ -1,0 +1,45 @@
+#!/usr/bin/env python3
+
+import boiler
+from parse_frontmatter import parse_frontmatter
+from pathlib import Path
+import subprocess
+import sys
+
+script_dir = Path(__file__).resolve().parent
+filepath = Path(sys.argv[1]).resolve()
+
+# Parse frontmatter and skip draft posts
+frontmatter = parse_frontmatter(filepath)
+if frontmatter.get("draft"):
+    print(f"{filepath}: is draft", file=sys.stderr)
+    sys.exit(1)
+
+if not frontmatter.get("title"):
+    print(f"{filepath}: title is missing", file=sys.stderr)
+    sys.exit(1)
+
+boiler.print_html_head(frontmatter["title"], frontmatter.get("css"))
+
+# Read file contents and strip frontmatter manually
+inside_frontmatter = False
+content = []
+
+with open(filepath, encoding="utf-8") as f:
+    for line in f:
+        if line.strip() == "---":
+            inside_frontmatter = not inside_frontmatter
+            continue
+        if not inside_frontmatter:
+            content.append(line)
+
+# Convert Markdown to HTML using `smu`
+html = subprocess.run(
+    ["smu"],
+    input="".join(content),
+    text=True,
+    capture_output=True
+).stdout
+
+print(html, end="")
+boiler.print_html_tail()
