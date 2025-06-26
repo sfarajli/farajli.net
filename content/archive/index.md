@@ -41,7 +41,7 @@ This archive includes both my own project and third-party software that I use.
 -   Description: My build of SLStatus.
 -   Source: https://git.farajli.net/slstatus
 -   Downloads
-    -   [dmenu_farajli-5.3.0.tar.gz](/archive/dmenu_farajli-5.3.0.tar.gz)
+    -   [slstatus_farajli-1.0.0.tar.gz](/archive/slstatus_farajli-1.0.0.tar.gz)
 
 
 ## Third-Party Software
