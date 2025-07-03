@@ -12,13 +12,15 @@ This archive includes both my own project and third-party software that I use.
 -   Description: Suleyman's Linux Configuration Files.
 -   Source: https://git.farajli.net/slcf
 -   Downloads
-    - [slcf.tar.gz](/archive/slcf.tar.gz)
+    - [slcf-0.1.tar.gz](/archive/slcf-0.1.tar.gz)
 
 ### DWM
 
 -   Description: My build of Dynamic Window Manager.
 -   Source: https://git.farajli.net/dwm
 -   Downloads
+    - [dwm_farajli-6.5.2.tar.gz](/archive/dwm_farajli-6.5.2.tar.gz)
+    - [dwm_farajli-6.5.1.tar.gz](/archive/dwm_farajli-6.5.1.tar.gz)
     - [dwm_farajli-6.5.0.tar.gz](/archive/dwm_farajli-6.5.0.tar.gz)
 
 ### ST
@@ -26,6 +28,7 @@ This archive includes both my own project and third-party software that I use.
 -   Description: My build of Simple Terminal.
 -   Source: https://git.farajli.net/st
 -   Downloads  
+    -   [st_farajli-0.9.2.1.tar.gz](/archive/st_farajli-0.9.2.1.tar.gz)
     -   [st_farajli-0.9.2.0.tar.gz](/archive/st_farajli-0.9.2.0.tar.gz)
 
 ### DMenu
@@ -41,6 +44,7 @@ This archive includes both my own project and third-party software that I use.
 -   Description: My build of SLStatus.
 -   Source: https://git.farajli.net/slstatus
 -   Downloads
+    -   [slstatus_farajli-1.0.1.tar.gz](/archive/slstatus_farajli-1.0.1.tar.gz)
     -   [slstatus_farajli-1.0.0.tar.gz](/archive/slstatus_farajli-1.0.0.tar.gz)
 
 
